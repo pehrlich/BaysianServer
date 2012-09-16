@@ -3,4 +3,4 @@
 # * GET users listing.
 # 
 exports.list = (req, res) ->
-  res.send "respond with a resource in coffee2!"
+  res.send "respond with a resource in coffee3!"
